@@ -1,6 +1,3 @@
-Absolutely — here is a full clean professional documentation of everything you did, step-by-step, from ML model → FastAPI → MongoDB → Deployment on Railway → Frontend, all in correct order.
-You can copy-paste this as your minor project report or use it as your personal guide.
-
 🚀 DISEASE (DIABETES) DETECTION WEBSITE – FULL PROJECT DOCUMENTATION
 
 📌 1. DATASET & MACHINE LEARNING MODEL
